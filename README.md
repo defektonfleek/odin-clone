@@ -1,1 +1,1 @@
-# odin-clone
+Cloning a webpage provided by www.theodinproject.com // Foundations Path
